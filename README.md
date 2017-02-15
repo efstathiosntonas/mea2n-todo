@@ -5,7 +5,7 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 
 
 ## Development server
-Run `node server.js' or `nodemon server.js` and navigate to `http://localhost:3000`
+Run `node server.js` or `nodemon server.js` and navigate to `http://localhost:3000`
 
 ## Code scaffolding
 
